@@ -1,1 +1,1 @@
-docker exec 01container cat /etc/os-release
+docker container rm -f 01container
