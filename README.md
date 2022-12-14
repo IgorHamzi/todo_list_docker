@@ -1,13 +1,32 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+## :information_source: Docker Todo List
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Primeiro projeto do módulo de Back-End do curso de desenvolvimento da Trybe, projeto esse desenvolvido para "conteinerizar" as aplicações de frontend, backend e testes, criando uma conexão entre elas e orquestrando seu funcionamento! 
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+
+## :rocket: Stack utilizada
+
+* Container: Docker, Docker Compose
+
+---
+
+## Habilidades desenvolvidas
+
+* Entender o conceito de empacotamento de aplicações, assim como o conceito de escalonamento;
+* Entender o que é o Docker e qual problema ele se dispõe a resolver;
+* Entender o que é um processo Docker / container ;
+* Entender como instalar a ferramenta e executar um container ;
+* Entender quais são os principais comandos para utilização do Docker na interface de linha de comando (CLI);
+* Rodar imagens do Docker Hub (repositório oficial de imagens do Docker).
+* Criar imagens com Docker;
+* Entender a arquitetura de camadas ( layers ) das imagens Docker ;
+* Aplicar boas práticas e padrões na criação de imagem;
+* "Dockerizar"/Gerar contêineres para suas aplicações;
+* Gerenciar redes Docker , utilizando-as para a comunicação e isolamento de containers ;
+* Persistir dados dos containers utilizando volumes ;
+* Criar arquivos Compose para gerenciar todo seu ambiente com Docker ;
+* Gerenciar Services , Network e Volumes a partir do Compose .
+
+---
+
+
+### Projeto realizado no módulo de Back-end do Curso de Desenvolvimento WEB da TRYBE.
